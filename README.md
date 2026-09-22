@@ -8,6 +8,8 @@ Each small demo lives under `demos/<kebab-slug>/`. Do not create a new GitHub re
 
 Bookmarks are **inspiration only**. Study idea, motion, art direction, and tech — then invent something original. No one-to-one recreations. Every demo must be a new idea: visually entertaining, simple, high quality, satisfying motion where it fits.
 
+**No AI-slop aesthetics:** no neon UI, no generic glowing cyberpunk chrome, no purple-gradient-on-black defaults. Prefer tactile, intentional art direction (soft materials, print/paper, watercolor, toy, editorial, or other human-feeling palettes). See `AGENTS.md`.
+
 ## Layout
 
 - `demos/` — one self-contained demo app per folder

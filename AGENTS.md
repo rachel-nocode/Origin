@@ -17,6 +17,20 @@ Then invent something **truly original**. No one-to-one recreations. No clones o
 
 Every demo, every week, must be a **new idea**: visually entertaining, simple, high quality, and built around satisfying motion where that fits.
 
+## Hard rule — no AI-slop aesthetics
+
+Never ship generic AI-slop visuals. This is a standing rule from Rachel.
+
+**Banned defaults:**
+
+- Neon UI
+- Generic glowing cyberpunk chrome
+- Purple-gradient-on-black palettes
+
+**Prefer instead:** tactile, intentional art direction — soft materials, print/paper, watercolor, toy, editorial, or other human-feeling palettes.
+
+Every demo should look **designed**, not templated.
+
 ## Other hard rules
 
 - Only add or update files under `demos/<kebab-slug>/` for a given demo (plus `tracking/seen-bookmarks.json` when recording a pick).
