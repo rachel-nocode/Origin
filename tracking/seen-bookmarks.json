@@ -1,5 +1,15 @@
 {
   "proposed": [],
-  "shipped": [],
+  "shipped": [
+    {
+      "slug": "paper-tide",
+      "urls": [
+        "https://x.com/heynavtoor/status/2102231506618106157",
+        "https://x.com/Lockie_Glizzy/status/2102276900945367227",
+        "https://x.com/byteab/status/2102342044505239741"
+      ],
+      "note": "Inspiration only — Paper Tide is an original watercolor ripple toy, not a clone."
+    }
+  ],
   "skipped": []
 }
