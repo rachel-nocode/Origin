@@ -2,7 +2,22 @@
 
 You are working in the sticky weekly tech-demos monorepo.
 
-## Hard rules
+## Hard rule — inspiration only, never copy
+
+X / Twitter bookmarks and any outside references are **inspiration only**. They are never a template to copy.
+
+Study what makes a bookmarked build work:
+
+- the idea
+- the motion
+- the art direction
+- the tech
+
+Then invent something **truly original**. No one-to-one recreations. No clones of bookmarked games or apps.
+
+Every demo, every week, must be a **new idea**: visually entertaining, simple, high quality, and built around satisfying motion where that fits.
+
+## Other hard rules
 
 - Only add or update files under `demos/<kebab-slug>/` for a given demo (plus `tracking/seen-bookmarks.json` when recording a pick).
 - Never create a new GitHub repository.

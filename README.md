@@ -2,7 +2,11 @@
 
 Sticky monorepo for Rachel NoCode weekly tech demos.
 
-Each small library / idea demo lives under `demos/<kebab-slug>/`. Do not create a new GitHub repo per demo.
+Each small demo lives under `demos/<kebab-slug>/`. Do not create a new GitHub repo per demo.
+
+## Hard rule
+
+Bookmarks are **inspiration only**. Study idea, motion, art direction, and tech — then invent something original. No one-to-one recreations. Every demo must be a new idea: visually entertaining, simple, high quality, satisfying motion where it fits.
 
 ## Layout
 
@@ -13,10 +17,10 @@ Each small library / idea demo lives under `demos/<kebab-slug>/`. Do not create 
 
 ## Add a demo
 
-1. Plan with `skills/project-planning/`
+1. Plan with `skills/project-planning/` (original idea only)
 2. Create `demos/<kebab-slug>/` (self-contained: `bun install && bun run dev`)
 3. Open one PR; attach at least one screenshot and one video of the running app when practical
 
 ## Weekly workflow
 
-Study X bookmarks → ship similar demos that show the idea and stack → invent one original idea → ship the original via Coder on the cheapest cloud-agent model (prefer Composer 2.5).
+Study X bookmarks for craft → invent original demos → invent one standout original → ship via Coder on the cheapest cloud-agent model (prefer Composer 2.5).

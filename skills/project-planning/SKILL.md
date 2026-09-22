@@ -1,16 +1,27 @@
 ---
 name: project-planning
-description: Use before building a new demo under demos/<slug>/. Write PLAN.md, then implement.
+description: Use before building a new demo under demos/<slug>/. Write PLAN.md, then implement. Bookmarks are inspiration only — invent originals.
 ---
 
 # Project planning (demo)
 
-Before coding a new demo in this monorepo:
+## Hard rule — inspiration only
+
+Bookmarks and references are inspiration only. Never plan a one-to-one recreation or clone.
+
+Study craft signals (idea, motion, art direction, tech), then invent a **new** demo idea that is:
+
+- visually entertaining
+- simple
+- high quality
+- built around satisfying motion where that fits
+
+## Before coding
 
 1. Name a kebab-case slug and path `demos/<slug>/`.
 2. Write `demos/<slug>/PLAN.md` with:
-   - Idea (one paragraph)
-   - Source inspiration (bookmark URL if any)
+   - Original idea (one paragraph) — must not be a recreation of a bookmark
+   - Craft inspiration notes (what you learned; optional bookmark URLs as inspiration only)
    - Tech stack
    - MVP scope (what ships in v1)
    - Out of scope
