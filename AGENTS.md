@@ -17,6 +17,12 @@ Then invent something **truly original**. No one-to-one recreations. No clones o
 
 Every demo, every week, must be a **new idea**: visually entertaining, simple, high quality, and built around satisfying motion where that fits.
 
+## Hard rule — no AI-slop visuals
+
+Never default to neon UI, glowing cyberpunk ribbons, or purple/cyan glow-on-black. Avoid generic “AI slop” aesthetics.
+
+Prefer tactile, human-feeling art direction: matte materials, warm paper/linen surfaces, editorial typography, natural color palettes. Satisfying motion is required; neon glow is not.
+
 ## Other hard rules
 
 - Only add or update files under `demos/<kebab-slug>/` for a given demo (plus `tracking/seen-bookmarks.json` when recording a pick).
