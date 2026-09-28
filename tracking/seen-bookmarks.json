@@ -1,5 +1,36 @@
 {
-  "proposed": [],
-  "shipped": [],
+  "proposed": [
+    {
+      "slug": "sunprint-frame",
+      "note": "Cyanotype contact-print toy — arrange botanicals on coated paper, expose to soft sun, watch the blue deepen. Original idea, not built."
+    },
+    {
+      "slug": "type-drawer",
+      "note": "Letterpress sorts in a wooden type drawer — drag metal letters onto a composing stick, feel the clink. Original idea, not built."
+    }
+  ],
+  "shipped": [
+    {
+      "slug": "wax-seal",
+      "inspirationUrls": [
+        "https://x.com/shfred0/status/2102495989194236158",
+        "https://x.com/twoclipping/status/2103273003555402193",
+        "https://x.com/anshuc/status/2104262648519156094",
+        "https://x.com/ParthJadhav8/status/2103773920797335779",
+        "https://x.com/cherry_mx_reds/status/2102449525944099320",
+        "https://x.com/callmidavid/status/2104288530159833161",
+        "https://x.com/diegocabezas01/status/2104277642665132539",
+        "https://x.com/Rubzem/status/2104253584737230926",
+        "https://x.com/protoduct_ai/status/2104043397929726035",
+        "https://x.com/temkosoft/status/2104192308753363442",
+        "https://x.com/rexan_wong/status/2103707054108299437",
+        "https://x.com/adipandaio/status/2103541815660228657",
+        "https://x.com/ajith_io/status/2103449416325890146",
+        "https://x.com/chrispattle/status/2102544483334369282",
+        "https://x.com/almonk/status/2102444573016699297"
+      ],
+      "note": "Inspiration only — studied craft signals (material process, editorial frames, tactile motion). Built original wax-seal desk toy instead of cloning any bookmark."
+    }
+  ],
   "skipped": []
 }
