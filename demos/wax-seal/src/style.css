@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #2a1f16;
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  touch-action: none;
+  user-select: none;
+}
+
+#canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: crosshair;
+}
+
+.hint {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(245, 236, 220, 0.72);
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  pointer-events: none;
+  text-transform: lowercase;
+}
+
+.reset {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid rgba(184, 149, 107, 0.45);
+  border-radius: 2px;
+  background: rgba(42, 31, 22, 0.55);
+  color: rgba(245, 236, 220, 0.85);
+  font-family: inherit;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: lowercase;
+  cursor: pointer;
+  backdrop-filter: blur(4px);
+}
+
+.reset:hover {
+  background: rgba(58, 44, 32, 0.75);
+  border-color: rgba(184, 149, 107, 0.65);
+}
