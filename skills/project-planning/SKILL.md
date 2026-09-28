@@ -26,6 +26,6 @@ Study craft signals (idea, motion, art direction, tech), then invent a **new** d
    - MVP scope (what ships in v1)
    - Out of scope
    - How to run (`bun install && bun run dev`)
-   - Validation (screenshot + short video of the running app)
+   - Validation (REQUIRED screenshot saved to `demos/<slug>/screenshot.png` and embedded in the PR, plus a short video when practical)
 3. Keep the demo single-user MVP-sized.
 4. Only then implement under `demos/<slug>/`.

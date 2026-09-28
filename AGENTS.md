@@ -23,7 +23,8 @@ Every demo, every week, must be a **new idea**: visually entertaining, simple, h
 - Never create a new GitHub repository.
 - Prefer Bun. Each demo must be self-contained: from `demos/<slug>/`, `bun install && bun run dev` must work.
 - Plan first using `skills/project-planning/`, then write `demos/<slug>/PLAN.md` before substantial code.
-- Open one PR per demo. Attach both at least one screenshot AND at least one video of the running app in the PR when practical.
+- Open one PR per demo. Attach at least one video of the running app when practical.
+- REQUIRED: every demo must finish with at least one screenshot of the running app. Save it as `demos/<slug>/screenshot.png`, embed it in the PR body, and reference it in your final report. No demo is done without a screenshot.
 - Do not touch unrelated demos.
 
 ## Naming
